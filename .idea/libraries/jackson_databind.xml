@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="jackson-databind" type="repository">
+    <properties maven-id="com.fasterxml.jackson.core:jackson-databind:2.16.0">
+      <verification>
+        <artifact url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.16.0/jackson-databind-2.16.0.jar">
+          <sha256sum>8aaf1753823be70b798290e5826ab5bfe015d35b3a36a5d3c2ec9f57d4b0138b</sha256sum>
+        </artifact>
+        <artifact url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.16.0/jackson-annotations-2.16.0.jar">
+          <sha256sum>c4b90ea0c0074da17efdc3aa23973525f25d6f34725692169748f529547334a6</sha256sum>
+        </artifact>
+      </verification>
+      <exclude>
+        <dependency maven-id="com.fasterxml.jackson.core:jackson-core" />
+      </exclude>
+    </properties>
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.16.0/jackson-databind-2.16.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.16.0/jackson-annotations-2.16.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.16.0/jackson-databind-2.16.0-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.16.0/jackson-annotations-2.16.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

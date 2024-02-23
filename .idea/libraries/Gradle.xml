@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle" type="repository">
+    <properties maven-id="org.jetbrains.intellij.deps:gradle-api:8.5">
+      <verification>
+        <artifact url="file://$MAVEN_REPOSITORY$/org/jetbrains/intellij/deps/gradle-api/8.5/gradle-api-8.5.jar">
+          <sha256sum>339bd43c2591356dd372bbbe8a42e78e38527b836c9379a554a7d5456e8abfbf</sha256sum>
+        </artifact>
+      </verification>
+    </properties>
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$/plugins/gradle/anno" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/intellij/deps/gradle-api/8.5/gradle-api-8.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

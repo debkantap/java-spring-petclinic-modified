@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="jackson" type="repository">
+    <properties maven-id="com.fasterxml.jackson.core:jackson-core:2.16.0">
+      <verification>
+        <artifact url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.16.0/jackson-core-2.16.0.jar">
+          <sha256sum>66e2cde4cc7e565d5fce2a2998b64e991777bf9fad4d220735c525fd8d01c31a</sha256sum>
+        </artifact>
+      </verification>
+    </properties>
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$/lib/annotations/jackson" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.16.0/jackson-core-2.16.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.16.0/jackson-core-2.16.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

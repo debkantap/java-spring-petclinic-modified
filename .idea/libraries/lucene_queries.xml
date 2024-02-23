@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="lucene-queries" type="repository">
+    <properties include-transitive-deps="false" maven-id="org.apache.lucene:lucene-queries:9.9.1">
+      <verification>
+        <artifact url="file://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-queries/9.9.1/lucene-queries-9.9.1.jar">
+          <sha256sum>6d655e52321616d4e80ce2b3c8cc0e51892cb5e03b968b234adaeb1273471183</sha256sum>
+        </artifact>
+      </verification>
+    </properties>
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-queries/9.9.1/lucene-queries-9.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-queries/9.9.1/lucene-queries-9.9.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-queries/9.9.1/lucene-queries-9.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
