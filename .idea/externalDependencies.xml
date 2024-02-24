@@ -12,5 +12,6 @@
     <plugin id="org.intellij.groovy" />
     <plugin id="org.editorconfig.editorconfigjetbrains" />
     <plugin id="org.jetbrains.kotlin" />
+    <plugin id="com.densebrain.intellij.plugins.groovyconvert" />
   </component>
 </project>
