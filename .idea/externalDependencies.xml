@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ExternalDependencies">
     <plugin id="DevKit" />
+    <plugin id="org.intellij.scala" />
     <plugin id="Git4Idea" />
     <plugin id="JUnit" />
     <plugin id="com.intellij" min-version="213.6777.52" />
